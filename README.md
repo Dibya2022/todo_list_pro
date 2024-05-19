@@ -15,5 +15,5 @@ CSS
 JavaScript
 How to Use:
 
-Clone the repository: git clone https://github.com/yourusername/todo-list-app.git
+Clone the repository: git clone [https://github.com/yourusername/todo-list-app.git](https://github.com/Dibya2022/todo_list_pro.git)
 Open index.html in your web browser to start using the app.
